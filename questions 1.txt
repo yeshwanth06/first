@@ -1,0 +1,32 @@
+what is coadeing?
+why do we use include with hastag?
+whats the use of hastag?
+whats the use of include?
+what is studio.h?
+why do we use studio.h?
+whats the use of int?
+why do we use main?
+whats the use of main?
+what is a function?
+why do we use flower brackets?
+what is print f?
+why do we use print f?
+why is "hello world"in paranthansis?
+why is the semicolen used after every sentances?
+what does print f do?
+whats return?
+why is return function used?
+why are the brackets () used after main?
+what does the main function do?
+why is a 0 used after return?
+why should we use only 0?
+what will happen if we use 1,2,3 or other numbers?
+why should we use only studio.h?
+why should we use hastag at the starting?
+whats the semicolen used for?
+why is use hastag at the begining?
+whats the use of coadeing?
+waht is main?
+why return is called a function?
+why should we use flower brackets at the begining and ending of the program?
+why is studio.h used inside <>?
