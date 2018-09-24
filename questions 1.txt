@@ -1,4 +1,5 @@
 what is codeing?
+typeing of c program 
 why do we use include with hastag?
 Now such include files are called header files and they are distinguished by ending in the extension .h. A header file is generally used to define all of the functions, variables and constants contained in any function library that you might want to use
 whats the use of hastag?
@@ -13,48 +14,33 @@ whats the use of int?
 why do we use main?
 In C, the "main" function is treated the same as every function, it has a return type (and in some cases accepts inputs via parameters). The only difference is that the main function is "called" by the operating system when the user runs the program.
 whats the use of main?
+In C, the "main" function is treated the same as every function, it has a return type (and in some cases accepts inputs via parameters). The only difference is that the main function is "called" by the operating system when the user runs the program.
 what is a function?
 
 why do we use flower brackets?
 In any programming language they indicate a block of code. { this is used to start a body of any function and } this is use to close body of function.
 what is print f?
 printf() function is used to print the “character, string, float, integer, octal and hexadecimal values” onto the output screen
-
-Does character mean alphabets or punctuation marks.
 Why do you need alphabets in a program?
-you use alphabets to assign values.
-a=10
-'a'
-"hello, how are you sahana1?"
-""
-','
-
-1
-2.2
-01 not 09
-
-'1'
-
-
-
-What is a variable.
-Variable is number.
-
-
+you use alphabets to assign values
 why do we use print f?
 printf() function in C language: In C programming language, printf() function is used to print the “character, string, float, integer, octal and hexadecimal values” onto the output screen.
 why is "hello world"in paranthansis?
 why is the semicolen used after every sentances?
+In computer programming, the semicolon is often used to separate multiple statements 
 what does print f do?
 printf is the function used to display the output text on terminal in C programming laguage. In c Printf is a pre defined function which is defined by header file stdio.h basically Printf is used to print the value of any variable.
 whats return?
+The return statement terminates the execution of a function and returns control to the calling function.
 why is return function used?
+All C functions can be called either with arguments or without arguments in a C program. Also, they may or may not return any values.
 why are the brackets () used after main?
 what does the main function do?
 why is a 0 used after return?
 why should we use only 0?
 what will happen if we use 1,2,3 or other numbers?
 why should we use only studio.h?
+It looks for the stdio.h file and effectively copy-pastes it in the place of this #include statements. This file contains so-called function prototypes of functions such as printf() , scanf() ,
 why should we use hastag at the starting?
 whats the semicolen used for?
 why is use hastag at the begining?
@@ -62,5 +48,4 @@ whats the use of coadeing?
 waht is main?
 the "main" function is treated the same as every function, it has a return type (and in some cases accepts inputs via parameters). The only difference is that the main function is "called" by the operating system when the user runs the program.
 why return is called a function?
-why should we use flower brackets at the begining and ending of the program?
 why is studio.h used inside <>?
