@@ -1,11 +1,17 @@
 what is codeing?
 why do we use include with hastag?
+Now such include files are called header files and they are distinguished by ending in the extension .h. A header file is generally used to define all of the functions, variables and constants contained in any function library that you might want to use
 whats the use of hastag?
+It is used to distinguish lines which need preprocessing before actual compilation begins. it replaces that line with all the text inside 'stdio.h'.
 whats the use of include?
+There are two types of header files: the files that the programmer writes and the files that comes with your compiler. You request to use a header file in your program by including it with the C preprocessing directive #include, like you have seen inclusion of stdio.h header file, which comes along with your compiler.
 what is studio.h?
+The C programming language provides many standard library functions for file input and output. These functions make up the bulk of the C standard library header <stdio.h>.
 why do we use studio.h?
+ In C/C++ we use some functions like printf(), scanf(), cout,cin. These functions are not defined by the programmer. These functions are already defined inside the language library.
 whats the use of int?
 why do we use main?
+In C, the "main" function is treated the same as every function, it has a return type (and in some cases accepts inputs via parameters). The only difference is that the main function is "called" by the operating system when the user runs the program.
 whats the use of main?
 what is a function?
 
@@ -36,9 +42,11 @@ Variable is number.
 
 
 why do we use print f?
+printf() function in C language: In C programming language, printf() function is used to print the “character, string, float, integer, octal and hexadecimal values” onto the output screen.
 why is "hello world"in paranthansis?
 why is the semicolen used after every sentances?
 what does print f do?
+printf is the function used to display the output text on terminal in C programming laguage. In c Printf is a pre defined function which is defined by header file stdio.h basically Printf is used to print the value of any variable.
 whats return?
 why is return function used?
 why are the brackets () used after main?
